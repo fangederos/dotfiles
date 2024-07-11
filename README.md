@@ -1,6 +1,3 @@
-Certainly! Let's create a more detailed README based on your file tree structure:
-
----
 
 # Dotfiles Repository
 
@@ -46,7 +43,3 @@ The `nvim.bak` directory serves as a backup of previous Neovim configurations.
 ## Usage
 
 Feel free to explore and use these configurations to enhance your own development environment. Don't hesitate to reach out if you have any questions or suggestions!
-
----
-
-This README provides a clearer understanding of what each directory contains and their intended purposes within your dotfiles repository. Adjustments can be made based on any additional details or specific usage instructions you'd like to include.
