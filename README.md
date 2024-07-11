@@ -49,4 +49,4 @@ The `share/` directory contains additional resources and configurations:
 
 ## Usage
 
-Feel free to explore and utilize these configurations to tailor your own development and shell environments. If you have any questions or suggestions, don't hesitate to reach out!
+Feel free to explore and utilize these configurations to tailor your needs, though I seriously doubt this will be of use to anyone until I create scripts to automate the creation of the enviroment in a full-fleshed `archinstall` fork. If you have any questions or suggestions, don't hesitate to reach out!
